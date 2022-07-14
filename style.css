@@ -1,0 +1,7 @@
+ul.nav a:hover { 
+    background-color: rgb(240, 238, 238) !important; 
+}
+
+ul.nav a {
+    border-radius: 15px;
+}
